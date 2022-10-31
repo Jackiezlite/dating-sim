@@ -1,0 +1,19 @@
+.darrion{
+    color:red;
+}
+.kia{
+    color:aquamarine;
+}
+.sean{
+    color:blue;
+}
+.zjet{
+    color:chartreuse;
+}
+.teach{
+    font-weight: bold;
+}
+a:hover{
+    background-color: yellow;
+    color: black;
+}
